@@ -10,7 +10,6 @@
 - 🧠 I greatly enjoy discovering new technologies and strive to produce practical, effective results by approaching problems with a **solution-oriented** mindset.
 - 🤝 I am adaptable to teamwork, open to communication, and **never hesitate to take responsibility**.
 - 🛠️ Technically, I have developed myself in backend technologies like **C#, .NET, Entity Framework, Dapper, SQL (MSSQL, PostgreSQL), and Docker**, as well as frontend technologies like **HTML, CSS, JavaScript, and Bootstrap**.
-- 📱 I am currently focusing on mobile application development with **.NET MAUI**, one of my biggest interests, aiming to design modern and user-friendly applications.
 
 <br/>
 
@@ -23,17 +22,22 @@
 
 ### 🌐 Frontend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" alt="Frontend" />
 </a>
 
 ### ⚙️ Backend & Database
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dotnet,postgres,mysql,sqlserver,dapper&theme=dark" alt="Backend and Database" />
+  <img src="https://skillicons.dev/icons?i=dotnet,postgres,mysql,stackoverflow&theme=dark" alt="Backend and Database" />
 </a>
 
 ### 🛠️ Tools & Design
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,git&theme=dark" alt="Tools" />
+</a>
+
+### 🖥️ Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" alt="Platforms" />
 </a>
 <br/>
 
