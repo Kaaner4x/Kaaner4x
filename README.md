@@ -15,6 +15,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaaner4x&color=7aa2f7&style=flat&label=Views" alt="Profile Views" />
   &nbsp;
+  <a href="https://github.com/Kaaner4x?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Kaaner4x?label=Followers&style=flat&logo=github&color=7aa2f7&labelColor=161b22" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Battery-100%25-brightgreen?style=flat&logo=battery&logoColor=white&labelColor=161b22" alt="Battery" />
+  &nbsp;
   <a href="https://www.linkedin.com/in/kaaner4x/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
@@ -35,27 +41,66 @@
   <em>"Always learning, staying curious, and turning coffee into clean, scalable code."</em> ☕🚀
 </p>
 
-``` python
-import torch.nn as nn
+```csharp
+public class Kaaner4x : IDeveloper
+{
+    public string Role => "Junior .NET Developer | Full-Stack Candidate 🚀";
+    public string Focus => "Clean Architecture, SOLID & Scalable Backends";
 
-class Kaaner4x(nn.Module):
-    def __init__(self):
-        super().__init__()
-        self.role = "Junior .NET Developer | Full-Stack Candidate 🚀"
-        self.about = "University student passionate about software, solution-oriented, and open to continuous learning."
-        
-        self.languages = ["C# 💜", "Java ☕", "C ⚙️", "Python 🐍"]
-        self.frontend = ["HTML5 🌐", "CSS3 🎨", "JavaScript 💛", "Bootstrap 🅱️", "TailwindCSS 💨"]
-        self.backend_and_db = ["ASP.NET Core 🌐", "EF Core ⚡", "Dapper 🚀", "MSSQL 🗄️", "PostgreSQL 🐘"]
-        self.tools = ["Visual Studio 🟣", "VS Code 💙", "Docker 🐳", "Git 🛠️"]
-        self.platforms = ["Windows 💻", "Linux 🐧"]
-
-    def forward(self, coffee):
-        architecture = self.design_backend()
-        database = self.connect_data_layer(architecture)
-        ui = self.build_frontend_interface(database)
-        return self.deploy_fullstack_app(ui)
+    public async Task<Application> BuildAsync(Coffee coffee)
+    {
+        var architecture = DesignBackend();
+        var database = ConnectDataLayer(architecture);
+        return await DeployScalableAppAsync(database);
+    }
+}
 ```
+
+---
+
+### Tech Stack & Skills
+
+<div align="left">
+
+  <h3>Programming</h3>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
+  <h3>Frameworks</h3>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/Dapper-004880?style=flat&logo=nuget&logoColor=white" alt="Dapper" />
+
+  <h3>Databases</h3>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+
+  <h3>Virtualization</h3>
+  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat&logo=windows&logoColor=white" alt="Hyper-V" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware" />
+
+  <h3>Software & Tools</h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+  <h3>Platforms</h3>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+
+</div>
 
 ---
 
